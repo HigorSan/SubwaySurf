@@ -1,0 +1,56 @@
+
+.cabecalhopaginas{
+    background-image: url("imagens/cabecalho.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 360px;
+    height: 154px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: right;
+  
+}
+body{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/fundo11.png");
+}
+.rodape{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/rodape.png");
+    width: 360px;
+    height: 136px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 0px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+.pagina2{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/fundo2.png");
+}
+.home{
+    text-align: left;
+}
+.pagina3{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/fundomaior.png");
+}
+.pagina4{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/fundop4.png");
+}
+.pagina5{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/fundo3.png");
+}
